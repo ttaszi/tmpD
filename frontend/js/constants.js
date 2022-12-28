@@ -1,7 +1,7 @@
 const contractAddress = "0x7877d239a8EE62C92eAC9Beb96f8B7C675a9847c"; // Replace with your own contract address
 const chain = 'polygon'; // goerli, polygon, or ethereum
 
-const welcome_h1 = "Welcome to the Project!!";
+const welcome_h1 = "Welcome to the Project!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'The NFT Project is a decentralized, open-source project';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
